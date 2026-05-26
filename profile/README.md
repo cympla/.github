@@ -1,3 +1,3 @@
 
 ### Description:
-	Technology, Simplified..
+	Technology, Simplified.
